@@ -5,27 +5,27 @@ redcarpet:
 permalink:           pretty
 
 # Setup
-title:               Programming Inverstigations
-tagline:             ''
+title:               Steve-254 Blog
+tagline:             The Tech Enthusiasts Pool
 description:         ''
-home:                http://romantsegelskyi.github.io
-url:                 http://romantsegelskyi.github.io/pi-blog
-baseurl:             /pi-blog/
+home:		             http://steve-254.github.io/
+url:                 http://steve-254.github.io/blog/
+baseurl:             /blog/
 paginate:            5
 paginate_path:       "/page:num/"
 exclude:             ['posts']
 
 # About/contact
 author:
-name:              Roman Tsegelskyi
-url:               http://romantsegelskyi.github.io
-email:             romantsegelskyi@gmail.com
+name:              Steve 254
+url:               http://steve-254.github.io
+email:             primary.stephen@gmail.com
 
 # Custom vars
 version:             1.0.0
 
 ## This is the list of pages to include in the header of the website.
 pages_list:       
-  About: '/pi-blog/about'
-  Atom: '/pi-blog/atom.xml'
-  RSS: '/pi-blog/rss.xml'
+  About: '/blog/about'
+  Atom: '/blog/atom.xml'
+  RSS: '/blog/rss.xml'

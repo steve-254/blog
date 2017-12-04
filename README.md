@@ -1,4 +1,4 @@
-Programming Inverstigations Blog
+Personal Blog
 ===
 
-This blog is dedicated to different explorations on programming. It can be accessed at [https://romantsegelskyi.github.io/pi-blog](https://romantsegelskyi.github.io/pi-blog).
+I share my learning on this blog.
